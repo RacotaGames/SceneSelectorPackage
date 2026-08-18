@@ -1,0 +1,17 @@
+{
+  "name": "com.vaqifquluzada.sceneselector",
+  "version": "1.0.0",
+  "displayName": "Scene Selector",
+  "description": "Adds a scene dropdown to the Unity Editor toolbar for quickly switching between scenes in folders you register.",
+  "unity": "2019.1",
+  "author": {
+    "name": "Vaqif Quluzada"
+  },
+  "keywords": [
+    "editor",
+    "scene",
+    "toolbar",
+    "productivity"
+  ],
+  "type": "tool"
+}
