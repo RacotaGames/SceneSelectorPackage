@@ -40,3 +40,7 @@ Add the following to your project's `Packages/manifest.json`:
 ## Requirements
 
 - Unity 2019.1 or later
+
+## Troubleshooting
+
+**Dropdown doesn't appear in the toolbar:** On some Unity versions the toolbar hides custom UI elements by default. Right-click in the toolbar near the Play/Pause/Step buttons and enable **Unsupported User Elements**.
